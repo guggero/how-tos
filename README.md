@@ -9,4 +9,4 @@ The list will hopefully grow over time, covering a wide range of technical topic
 
 ## Docker / Networking stuff
 
-* [HOW TO setup an IPv6 network using Docker](docker_networking/01-ipv6-with-docker.md)
+* [HOW TO setup IPv6 networking using Docker](docker_networking/01-ipv6-with-docker.md)
